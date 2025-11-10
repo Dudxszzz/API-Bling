@@ -1,6 +1,6 @@
 import requests
 
-access = "3732fed5205cde3ee9dea75e61016294b816da64"
+access = "" #token de acesso 
 base = "https://api.bling.com.br/Api/v3/"
 pag = 1
 limite = 100
